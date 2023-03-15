@@ -7,4 +7,4 @@ const container = buildContainer();
 
 const userSearcher = container.get(UserSearcher);
 
-console.log(userSearcher.search());
+
